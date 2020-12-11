@@ -1,0 +1,48 @@
+*{
+    font-family: sans-serif;
+}
+html body{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: lightblue;
+}
+nav{
+    background-color: rgb(153, 21, 21);
+    height: 39px;
+}
+nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    width: 200px;
+    padding: 10px 20px;
+    float: left;
+}
+nav a:hover{
+    background-color: rgb(82, 23, 23)
+}
+img {
+    max-width: 100%;
+}
+p {
+    font-family: sans-serif;
+}
+li {
+    font-family: sans-serif;
+}
+h1{
+    clear: both;
+    background-color: green;
+    margin: 0px ;
+    padding: 30px;
+    
+}
+
+footer{
+    background-color: #333;
+    color: #ccc;
+    padding: 10px 30px;
+}
